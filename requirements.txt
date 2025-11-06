@@ -1,0 +1,28 @@
+# Core scientific computing packages
+numpy>=1.19.0
+scipy>=1.7.0
+matplotlib>=3.3.0
+pandas>=1.2.0
+
+# Data handling and web requests
+requests>=2.25.0
+
+# Jupyter notebook dependencies
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# Optional packages for MCMC analysis and advanced plotting
+# Uncomment the following lines to enable MCMC uncertainty analysis
+# emcee>=3.1.0
+# corner>=2.2.0
+
+# Additional useful packages for XRR analysis
+# seaborn>=0.11.0  # Enhanced plotting styles
+# lmfit>=1.0.0     # Alternative fitting framework
+# uncertainties>=3.1.0  # Error propagation utilities
+
+# Development and testing (optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0

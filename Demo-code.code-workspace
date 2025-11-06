@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../X-ray_imaging/Demo-code"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"chatgpt.openOnStartup": true
+	}
+}

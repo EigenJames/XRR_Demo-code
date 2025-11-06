@@ -1,0 +1,2 @@
+dataset_name,analysis_date,data_points,q_min,q_max,chi_squared,reduced_chi_squared,r_factor_percent,residuals_within_2sigma_percent,total_thickness_angstrom,surface_roughness_angstrom
+synthetic,2025-10-04T00:08:09.861899,200,0.01,1.0,915.7909879069193,4.794717214172352,4.197036652514066,67.5,175.03205671773716,6.005500924042928
