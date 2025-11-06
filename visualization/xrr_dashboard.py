@@ -27,7 +27,7 @@ import plotly.graph_objects as go
 import ipywidgets as widgets
 from ipywidgets.embed import dependency_state, embed_minimal_html
 
-from xrr_forward_model import simulate_reflectivity_curve
+from core.xrr_forward_model import simulate_reflectivity_curve
 
 __all__ = ["interactive_reflectivity_view", "export_dashboard_html"]
 
